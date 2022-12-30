@@ -144,6 +144,7 @@ wsa://com.android.settings
 | Crazy Taxi Classic | 4.7 | 12 | ❌ | An error message on startup says "Download failed because the resources could not be found." | OBB installation has not yet been tested.
 | Cronometer | 3.13.1 | 11 | ✅
 | Cryptography | 1.24.0 | 12 | ✅
+| Daraz | 5.7.4 (181) | 13 | ✅
 | Dcoder | 4.0.76 | 11 | ✅
 | Decibel X | 6.4.2 | 11 | ⚠️ | App crashes
 | Decrypto | 1.4.7 | 12 | ✅
